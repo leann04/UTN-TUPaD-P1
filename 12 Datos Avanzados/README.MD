@@ -32,6 +32,6 @@ El objetivo principal es comprender el funcionamiento de los árboles en program
 
 En el siguiente video se explica de forma visual y práctica cómo funciona la implementación del árbol binario en Python, incluyendo ejemplos y recorrido del código:
 
-🔗 [Ver video en YouTube](https://youtu.be/OjgFemWbBUI)
+🔗 [Ver video en YouTube](https://youtu.be/H4zDKhQnc6I)
 
 
